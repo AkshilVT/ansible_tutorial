@@ -1,0 +1,10 @@
+---
+
+- name: First Playbook! :)
+  hosts: 10.20.24.44
+  gather_facts: true
+  tasks:
+
+  - name: Print Message
+    ansible.builtin.debug:
+      msg: Hello World!
