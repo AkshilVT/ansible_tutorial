@@ -41,6 +41,13 @@
       state: latest
     when: ansible_distribution == "Ubuntu"
 
+  - name: restart the server
+    tags: apache, apache2, ubuntu, restart
+    service:
+      name: apache2
+      state: restarted
+    
+
   - name: copy default html files for site
     tags: apache, apache2, html
     copy:
