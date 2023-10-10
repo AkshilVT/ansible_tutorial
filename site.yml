@@ -11,6 +11,12 @@
       update_cache: yes
     when: ansible_distribution == "Ubuntu"
 
+  - name: create simone user
+    tags: always
+    user:
+      name: simone
+      groups: root
+
 - hosts: workstations
   become: true
   tasks:
