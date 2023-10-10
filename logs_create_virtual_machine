@@ -1,0 +1,284 @@
+    1  ls
+    2  lol
+    3  clear
+    4  cd ..
+    5  ls
+    6  /proc
+    7  cd cloud-lab
+    8  ls
+    9  cd /
+   10  ls
+   11  /proc
+   12  cd proc
+   13  ls
+   14  cat imon
+   15  cat iomen
+   16  cat iomem
+   17  cat ioports
+   18  cat vmstat
+   19  clear
+   20  exit
+   21  ping google.com
+   22  exut
+   23  exit
+   24  ansible --version
+   25  clear
+   26  ping google.com
+   27  clear
+   28  exit
+   29  sudo apt update
+   30  apt list --upgradable
+   31  clear
+   32  sudo apt install ansible -y
+   33  ansible --version
+   34  sudo apt install ansible -y
+   35  clear
+   36  ansible --version
+   37  clear
+   38  sudo apt install sshpass
+   39  clear
+   40  sshpass --version
+   41  sshpass -V
+   42  clear
+   43  sudo vim /etc/ansible/hosts 
+   44  vim
+   45  sudo nano /etc/ansible/hosts 
+   46  ansible-inventory --list
+   47  ansible-inventory --list -y
+   48  clear
+   49  ansible all -m ping
+HHH-*  ipaddr
+   54  -+/clear
+   55  ~+-+r
+   56  clear
+   57  exit
+   58  ip a
+   59  ssh-add
+   60  mem
+   61  rem
+   62  clear
+   63  vmstat
+   64  /proc
+   65  clear
+   66  ls -la /proc/
+   67  clear
+   68  pwd
+   69  clear
+   70  cd ~
+   71  clear
+   72  pwd
+   73  clear
+   74  ssh 10.20.24.44
+   75  clear
+   76  eval $(ssh-agent)
+   77  ps aux | grep 8440
+   78  ssh-add
+   79  ssh 10.20.24.44
+   80  ssh-add
+   81  clear
+   82  exit
+   83  ls -la ~/.ssh/
+   84  clear
+   85  ll
+   86  clear
+   87  history
+   88  clear
+   89  ip a
+   90  ansible --version
+   91  clear
+   92  ip a
+   93  clear
+   94  openssh
+   95  openssssssssh-server
+   96  clear
+   97  openssh-server
+   98  sudo apt install openssh-server
+   99  clera
+  100  cls
+  101  clear
+  102  ip a
+  103  cd ~
+  104  clear
+  105  ls -la .ssh/
+  106  cat .ssh/authorized_keys 
+  107  ip a
+  108  clear
+  109  ip a
+  110  clear
+  111  cat .ssh/authorized_keys 
+  112  history
+  113  clear
+  114  cat ~/.ssh/authorized_keys 
+  115  clear
+  116  ip a
+  117  clear
+  118  ssh 10.20.24.44
+  119  ip a
+  120  history
+  121  clear
+  122  cat ~/.ssh/known_hosts 
+  123  ping 10.20.24.24
+  124  ping 10.20.24.40
+  125  ping 10.20.24.44
+  126  ping 10.20.24.20
+  127  ping 10.20.24.22
+  128  ping 10.20.24.28
+  129  ping 10.20.24.26
+  130  ping 10.20.24.42
+  131  ping 10.20.24.46
+  132  cip a
+  133  ip a
+  134  which vim
+  135  apt search vim-nox
+  136  clear
+  137  cd /var/log
+  138  clear
+  139  ls
+  140  cd apt
+  141  ls
+  142  clear
+  143  ls
+  144  cat history.log
+  145  clear
+  146  sudo apt update
+  147  sudo apt dist-upgrade
+  148  ip a
+  149  clear
+  150  apache2
+  151  clear
+  152  clear
+  153  ansible
+  154  claer
+  155  clear
+  156  uptime
+  157  clear
+  158  systemctl
+  159  clear
+  160  systemctl status mariadb
+  161  clear
+  162  systemctl status apache32
+  163  systemctl status apache2
+  164  clear
+  165  systemctl status libapache-mod-php
+  166  systemctl status libapache2-mod-php
+  167  clear
+  168  systemctl status apache32
+  169  systemctl status apache2
+  170  systemctl status mariadb
+  171  clear
+  172  systemctl status apache2
+  173  clear
+  174  systemctl status samba
+  175  exit
+  176  systemctl status samba
+  177  clear
+  178  systemctl status samba
+  179  clear
+  180  systemctl status samba
+  181  clear
+  182  cat /var/www/html/index.html 
+  183  systemctl status inzip
+  184  systemctl status unzip
+  185  which unzip
+  186  which terraform
+  187  systemctl status terraform
+  188  clear
+  189  terraform
+  190  clear
+  191  hotpo
+  192  clea
+  193  rcla
+  194  erclea
+  195  rclear
+  196  clear
+  197  ls /etc/apache2
+  198  ls /etc/apache2/apache2.conf 
+  199  nano /etc/apache2/apache2.conf 
+  200  ls /etc/apache2/apache2.conf 
+  201  clear
+  202  0-+
+  203  ls
+  204  clear
+  205  systemctl status apache2
+  206  sudo systemctl stop apache2
+  207  systemctl status apache2
+  208  sudo systemctl start apache2
+  209  systemctl status apache2
+  210  clear
+  211  ip
+  212  ip a
+  213  history
+  214  nano /etc/apache2/apache2.conf 
+  215  ls /etc/apache2\
+  216  ls /etc/apache2/sites-enabled/
+  217  clear
+  218  egrep -c '(vmx|svm)' /proc/cpuinfo 
+  219  lscpu |grep Virtualization
+  220  clear
+  221  sudo apt -y install bridge-utils cpu-checker libvirt-clients libvirt-daemon qemu qemu-kvm
+  222  sudo kvm-ok
+  223  clear
+  224  sudo system-ctl status libvirtd
+  225  sudo systemctl status libvirtd
+  226  sudo apt install libvirtd-daemon-system
+  227  sudo apt update
+  228  sudo systemctl status libvirtd
+  229  clear
+  230  sudo apt install qemu-kevm libvirt-daemon-system
+  231  sudo apt install qemu-kvm libvirt-daemon-system
+  232  clear
+  233  sudo systemctl status libvirtd
+  234  clear
+  235  ls
+  236  clear
+  237  mkdir AVT
+  238  clear
+  239  cd AVT
+  240  clear
+  241  ls
+  242  clear
+  243  git clone git@github.com:AkshilVT/ansible_tutorial.git
+  244  clear
+  245  systemctl status git
+  246  clear
+  247  sudo apt install git
+  248  clear
+  249  git clone git@github.com:AkshilVT/ansible_tutorial.git
+  250  clear
+  251  git pull
+  252  clear
+  253  cd ansible_tutorial/
+  254  clear
+  255  git pull
+  256  clear
+  257  git config --set-email=akshilvthumar@gmailc.om
+  258  clear
+  259  git config --global user.name "Akshil Thumar"
+  260  git config --global user.email "akshilvthumar@gmail.com"
+  261  clear
+  262  git
+  263  clea
+  264  clear
+  265  nano Re
+  266  nano README.md 
+  267  git status
+  268  clear
+  269  git add .
+  270  git commit -m 
+  271  git commit -m"test commit"
+  272  clear
+  273  git push
+  274  clear
+  275  sudo systemctl enable -now libvirtd
+  276  clear
+  277  sudo adduser test libvirtd
+  278  user
+  279  usr
+  280  clear
+  281  cat /etc/passwd
+  282  clear
+  283  compgen
+  284  clear
+  285  sudo adduser cloud-lab libvirtd
+  286  clear
+  287  history
